@@ -1,0 +1,16 @@
+# Build files
+*.exe
+*.out
+*.o
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Misc
+build/
